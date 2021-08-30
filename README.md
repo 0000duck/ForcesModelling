@@ -14,4 +14,6 @@ Make the main folder as a working folder and run 'SimInitializationGP.m' for the
 # Licence
 See LICENCE.txt for licencing information.
 
+# Find it also at MATLAB Central File Exchange
+
 [![View Hydraulic manipulator forces modelling on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/98464-hydraulic-manipulator-forces-modelling)
