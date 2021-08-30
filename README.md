@@ -1,5 +1,5 @@
 # Mathematical modelling and virtual decomposition control of heavy-duty parallel-serial manipulators
-The repository contains the Simulink model and MATLAB code for the simulation of the real-world hydraulic manipulator in the article:
+The repository contains Simulink model and MATLAB code for the real-world hydraulic manipulator forces simulation, based on the approach proposed in the article:
 
 https://arxiv.org/abs/2108.05322
 
