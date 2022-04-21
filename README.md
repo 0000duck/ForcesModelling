@@ -20,4 +20,4 @@ See LICENCE.txt for licencing information.
 
 Credit for all the CAD models goes to Dr Janne Koivumäki.
 
-Check his list of publications https://scholar.google.fi/citations?user=Llrx-nsAAAAJ&hl=fi
+Check out his list of publications https://scholar.google.fi/citations?user=Llrx-nsAAAAJ&hl=fi
