@@ -10,7 +10,7 @@ The simulation is performed in MATLAB/Simulink. Simulink Simscape Multibody Add-
 Make the main folder as a working folder and run 'SimInitializationGP.m' for the simulation initialization. Afterwards, run 'SimForcesGP2020a.slx' or 'SimForces2017a.slx'.
 
 # Licence
-See LICENCE.txt for licencing information.
+See LICENSE.txt for licencing information.
 
 # Find it also at MATLAB Central File Exchange
 
